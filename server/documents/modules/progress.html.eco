@@ -569,7 +569,7 @@ themes      : ['Default', 'Classic', 'Basic', 'Striped']
         <tr>
           <td>showActivity</td>
           <td>true</td>
-          <td>Whether progress should automatically show activity when incremented</td>
+          <td>Whether progress should automatically show the pulse animation activity when incremented</td>
         </tr>
         <tr>
           <td>limitValues</td>
